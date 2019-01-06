@@ -39,7 +39,7 @@ const RouterComponent = () => {
                             key="findRide"
                             component={LandingGetStarted}
                             back
-                            title="Find a Ride"
+                            title="Select an Option"
                         />
                 </Scene>
                 <Scene key='main'>

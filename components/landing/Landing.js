@@ -19,7 +19,7 @@ class Landing extends React.Component {
         return(
             <ImageBackground 
                 style={styles.cardStyle}
-                source={require('../img/hero.jpg')}
+                source={require('../img/test_hero.jpg')}
             >
                 <CardSection style={styles.logoContainerStyle}>
                     
